@@ -2,9 +2,9 @@
 
 ![](https://raw.githubusercontent.com/neocarvajal/get-holders-ERC20-token/main/src/img/Holders.png)
 
-# View on Vercel
+# View in Vercel
 
-https://vercel.com/neocarvajals-projects/get-holders-erc-20-token
+https://get-holders-erc-20-token.vercel.app/
 
 ## Available Scripts
 
